@@ -1,0 +1,6 @@
+build/node_modules/
+build/render/
+build/slide_text.md
+build/notes_wordcount.json
+build/package-lock.json
+build/package.json
